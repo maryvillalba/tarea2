@@ -1,0 +1,33 @@
+body {
+	margin: 50px;
+	border: solid 8px;
+	border-radius: 8px;
+	box-shadow: 0 0 8px #D0D0D0;
+}
+header {
+	padding-top: 50px;
+	padding-bottom: 65px;
+	text-align: center;
+}
+li{
+	display: inline;
+	padding-left: 20px;
+	font-family: verdana;
+	font-size: 25px;
+}
+nav{
+	border-bottom: solid 1px #ccc;
+}
+section {
+	margin: 30px;
+} 
+footer{
+	border-top: solid 1px #ccc;
+	text-align: center;
+	font-family: "calibri";
+	font-size: 20px;
+}
+a{
+	color: #000;
+	text-decoration: none;
+}

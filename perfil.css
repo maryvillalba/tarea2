@@ -1,0 +1,23 @@
+#banner{
+	height: 100px;
+	background-color: #3B5998;
+}
+section{
+	margin: 0px;
+}
+#photo{
+border: solid 10px #ccc;
+float: left;
+margin-top: -180px;
+margin-left: 70px;
+}
+#info{
+	background-color: #ccc;
+	margin-left: 130px;
+	margin-right: 15px;
+	margin-top: -145px;
+	margin-bottom: 45px;
+	padding: 15px;
+	border-radius: 8px;
+	font-family: "calibri";
+}
